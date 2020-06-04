@@ -1,0 +1,56 @@
+
+body {
+  background: linear-gradient(-45deg, rgba(171, 173, 147, 0.137), rgba(31, 153, 252, 0.534)),
+  url(beach.jpeg);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+hr {
+  height: 4px;
+  background-color: hsl(219, 87%, 65%);
+  width: 45%;
+  border: none;
+}
+
+.box {
+  width: 350px; border: solid 3px hsl(219, 87%, 65%);
+  height:400px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 110px;
+}
+
+.centering-parent1 {
+  padding-top: 10px;
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+
+.centering-parent2 {
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+
+.example {
+  font-family: "Montserrat","游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
+  font-size: 15px; 
+  border-radius: 10px;
+}
+
+.btn {
+  background-color: rgba(65, 108, 226, 0.822);
+  border-radius: 10px;
+  color: white;
+  width: 30px;
+  padding: 5px 10px 5px 10px;
+}
+
+.example2 {
+  padding: 10px;
+  margin: 5px;
+}
